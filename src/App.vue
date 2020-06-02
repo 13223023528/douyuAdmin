@@ -47,7 +47,7 @@ export default {
         return {
             //左侧菜单
             pageArray: [
-                {title: '视频管理',icon:'ios-home',name:'Index',path:'/'},
+                {title: '视频管理',icon:'ios-home',name:'Index',path:'/video'},
             ]
         }
     },
